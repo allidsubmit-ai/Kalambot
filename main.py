@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - 𝐈𝐍𝐒 𝐇�
 
 # Telegram Bot Token & Admin
 API_TOKEN = '8364756844:AAFxCgKUNZYQRLkfNk8TlWVNX7O3R53cmZI'
-MAIN_ADMIN_ID = 7087989353
+MAIN_ADMIN_ID = 7833093821
 
 # --- 🚀 AGENT PANEL API CONFIGURATION ---
 API_BASE_URL = "http://203.161.58.20/api/functions/agent-api"
